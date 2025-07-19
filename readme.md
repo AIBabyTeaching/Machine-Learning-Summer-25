@@ -13,7 +13,7 @@ This repository provides Jupyter notebooks and datasets for a basic machine lear
    ```bash
    conda activate machine-learning-course-2025
    ```
-4. Launch JupyterLab:
+4. Launch JupyterLab or the classic Jupyter Notebook:
    ```bash
    jupyter lab
    ```
