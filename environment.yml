@@ -1,0 +1,9 @@
+name: machine-learning-course-2025
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
