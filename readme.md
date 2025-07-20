@@ -2,6 +2,12 @@
 
 This repository provides Jupyter notebooks and datasets for a basic machine learning curriculum.
 
+### Author
+
+**Ahmed Métwalli** – [LinkedIn](https://www.linkedin.com/in/ahmed-m%C3%A9twalli/) | [ResearchGate](https://www.researchgate.net/profile/Ahmed-Metwalli)
+
+Teaching Assistant (MSc) at AASTMT focused on AI and Data Science. With over 15 publications and multidisciplinary projects spanning sign language, agriculture, surgery, textiles, accounting, signals, embedded systems, IoT, and optical and RF communications, he is now pursuing a Ph.D. on machine-learning-based wireless channel identification.
+
 ## Installation
 
 1. Install [conda](https://docs.conda.io/en/latest/miniconda.html) for Python 3.11 or newer.
