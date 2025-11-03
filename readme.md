@@ -10,7 +10,8 @@ Teaching Assistant (MSc) at AASTMT focused on AI and Data Science. With over 15 
 
 ## Installation
 
-1. Install [conda](https://docs.conda.io/en/latest/miniconda.html) for Python 3.11 or newer.
+1. Install [conda](https://repo.anaconda.com/miniconda/) for Python 3.11 or newer.
+Install [Miniconda](https://repo.anaconda.com/miniconda/) for Python 3.11 or any.
 2. Create the course environment with the provided `environment.yml`:
    ```bash
    conda env create -f environment.yml
